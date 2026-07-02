@@ -1,6 +1,6 @@
 # GM-CSF Priming and Pneumococcal Infection Response: A Multi-Dataset Transcriptomic Reanalysis
 
-**Self-directed multi-omics learning project**, undertaken to build hands-on transcriptomic analysis and cross-dataset comparison skills relevant to alveolar macrophage immunobiology, innate immunity, and host-pathogen response — core themes of my PhD research (Immunology, Newcastle University).
+**Self-directed multi-omics learning project**, undertaken to build hands-on transcriptomic analysis and cross-dataset comparison skills relevant to alveolar macrophage immunobiology, innate immunity, and host-pathogen response.
 
 ---
 
